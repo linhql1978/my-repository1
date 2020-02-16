@@ -1,0 +1,19 @@
+{
+  "name": "my-repository",
+  "version": "1.0.0",
+  "description": "This is README 1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/linhql1978/my-repository1.git"
+  },
+  "author": "QuangLinh <linhql1978@gmail.com> (http://Guru99.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/linhql1978/my-repository1/issues"
+  },
+  "homepage": "https://github.com/linhql1978/my-repository1#readme"
+}
